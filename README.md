@@ -1,2 +1,2 @@
 # FrontendmentorProfileCard
-logo (images/victor-card.png)
+logo (images/image-victor.jpg)
