@@ -26,7 +26,7 @@
 <h4>What I learnt</h4>
 <p>Using Emment to code faster <br>Emmet (previously known as Zen Coding) is a web-developer's toolkit that can greatly improve your HTML & CSS workflow you can type CSS-like expressions that can be dynamically parsed, and produce output depending on what you type in the abbreviation. <br>
 you can check them here.
-  <a href="https://docs.emmet.io/" color:"#000">Read about Emment</a>
+  <a href="https://docs.emmet.io/">Read about Emment</a>
 </p>
 
 <h3>Author</h3>
