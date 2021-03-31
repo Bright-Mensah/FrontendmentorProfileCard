@@ -25,6 +25,14 @@ you can check them here.
   <a href="https://docs.emmet.io/">Read about Emment</a>
 </p>
 
+<p>Also using css (Cascading Style Sheets) to beautify your page or text <br>
+example 
+<p id="name">My name is Bright Mensah</p>
+style it with css to change the text to red like this
+#name{
+color:#FF0000;
+</p>
+
   
 
 
