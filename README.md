@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <body>
-  <img src="images/image-victor.jpg">
+  <img src="images/profilecard screenshot1.png">
   </body>
 
 
