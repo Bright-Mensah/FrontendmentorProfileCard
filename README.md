@@ -9,7 +9,10 @@
   </body>
   
   <h3>Links to solution</h3> 
-  <a href="https://brightmensah12.github.io/FrontendmentorProfileCard/ target="_blank">View desktop Version</a>
+  <a href="#">View solution</a>
+  
+  <h3> View Live Site </h3>
+  <a href="https://brightmensah12.github.io/FrontendmentorProfileCard/">View solution</a>
   
 
 
