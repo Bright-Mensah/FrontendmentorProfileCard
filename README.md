@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 
+
+<link rel="stylesheet" href="style.css">
+
 <body>
   <h1>Mobile</h1>
   <img src="images/profilecard screenshot1.png">
@@ -27,9 +30,8 @@ you can check them here.
 
 <p>Also using css (Cascading Style Sheets) to beautify your page or text <br>
 example 
-<p style=color:#FF0000;>My name is Bright Mensah</p>
+<p class="name">My name is Bright Mensah</p>
 style it with css to change the text to red like this
-
 </p>
 </html>
 
