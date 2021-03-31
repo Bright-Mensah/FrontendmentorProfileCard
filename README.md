@@ -30,8 +30,8 @@ you can check them here.
 </p>
 
 <h3>Author</h3>
-<p>-Website - [Bright Mensah] (<a href="https://brightmensah12.github.io/FrontendmentorProfileCard/"></a>)</p>
-<p>- FrontendMentor - [@BrightMensah12] (<a href="https://www.frontendmentor.io/profile/BrightMensah12"></a>)
+
+<p>- FrontendMentor - [@BrightMensah12] (<a href="https://www.frontendmentor.io/profile/BrightMensah12">Check out my project on frontend</a>)
 
 </html>
 
