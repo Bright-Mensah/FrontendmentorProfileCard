@@ -13,7 +13,7 @@
   </body>
   
   <h3>Links to solution</h3> 
-  <a href="#">View solution</a>
+  <a href="https://www.frontendmentor.io/solutions/profilecard-using-html-and-css-EJSw6d1zv">View solution</a>
   
   <h3> View Live Site </h3>
   <a href="https://brightmensah12.github.io/FrontendmentorProfileCard/">View solution</a>
