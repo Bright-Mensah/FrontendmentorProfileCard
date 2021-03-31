@@ -29,9 +29,12 @@ you can check them here.
 example 
 <p id="name">My name is Bright Mensah</p>
 style it with css to change the text to red like this
+
+</p>
+
 #name{
 color:#FF0000;
-</p>
+}
 
   
 
