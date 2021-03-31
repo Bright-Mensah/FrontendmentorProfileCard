@@ -14,6 +14,11 @@
   <h3> View Live Site </h3>
   <a href="https://brightmensah12.github.io/FrontendmentorProfileCard/">View solution</a>
   
+  <h3>Built with</h3>
+  <p>- Semantic HTML5 markup <br>
+  - CSS custom properties
+</p>
+  
 
 
 </html>
