@@ -29,6 +29,10 @@ you can check them here.
   <a href="https://docs.emmet.io/" color:"#000">Read about Emment</a>
 </p>
 
+<h3>Author</h3>
+<p>-Website - [Bright Mensah] (<a href="https://brightmensah12.github.io/FrontendmentorProfileCard/"></a>)</p>
+<p>- FrontendMentor - [@BrightMensah12] (<a href="https://www.frontendmentor.io/profile/BrightMensah12"></a>)
+
 </html>
 
 
