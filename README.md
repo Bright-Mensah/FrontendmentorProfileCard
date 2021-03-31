@@ -27,18 +27,10 @@ you can check them here.
 
 <p>Also using css (Cascading Style Sheets) to beautify your page or text <br>
 example 
-<p class="name">My name is Bright Mensah</p>
+<p style=color:#FF0000;>My name is Bright Mensah</p>
 style it with css to change the text to red like this
 
 </p>
-
-.name{
-color:#FF0000;
-}
-
-  
-
-
 </html>
 
 
