@@ -1,14 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
 
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
-  <title>Frontend Mentor | Profile card component</title>
 
-  <link rel="stylesheet" href="style.css">
 
 
 
@@ -37,11 +29,6 @@ you can check them here.
   <a href="https://docs.emmet.io/" color:"#000">Read about Emment</a>
 </p>
 
-<p>Also using css (Cascading Style Sheets) to beautify your page or text <br>
-example 
-<p class="name">My name is Bright Mensah</p>
-style it with css to change the text to red like this
-</p>
 </html>
 
 
