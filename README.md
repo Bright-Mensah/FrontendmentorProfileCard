@@ -31,7 +31,7 @@ you can check them here.
 
 <h3>Author</h3>
 
-<p>- FrontendMentor - [@BrightMensah12] (<a href="https://www.frontendmentor.io/profile/BrightMensah12">Check out my project on frontend</a>)
+<p>- FrontendMentor - [@BrightMensah12] (<a href="https://www.frontendmentor.io/profile/BrightMensah12">Check out my project on frontendMentor</a>)
 
 </html>
 
