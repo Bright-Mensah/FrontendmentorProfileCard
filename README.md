@@ -7,6 +7,8 @@
   <h1>Desktop</h1>
   <img src="images/desktop-screenshot.png">
   </body>
+  
+  <h3>Links to solution</h3>  <a href="https://brightmensah12.github.io/FrontendmentorProfileCard/">FrontendmentorProfileCard</a>
 
 
 </html>
